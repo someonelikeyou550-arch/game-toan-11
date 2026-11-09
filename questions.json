@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "q": "Trong không gian, cho đường thẳng a và mặt phẳng (P). Có bao nhiêu vị trí tương đối giữa đường thẳng a và mặt phẳng (P)?",
+    "opts": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": 2,
+    "q": "Cho tứ diện ABCD. Vị trí tương đối giữa đường thẳng BC và mặt phẳng (BCD) là:",
+    "opts": [
+      "BC song song với (BCD)",
+      "BC nằm trong (BCD)",
+      "BC cắt (BCD) tại A",
+      "BC cắt (BCD) tại D"
+    ]
+  },
+  {
+    "id": 3,
+    "q": "Cho hình chóp S.ABC. Vị trí tương đối giữa đường thẳng SB và mặt phẳng đáy (ABC) là:",
+    "opts": [
+      "SB song song với (ABC)",
+      "SB nằm trong (ABC)",
+      "SB cắt (ABC) tại A",
+      "SB cắt (ABC) tại B"
+    ]
+  },
+  {
+    "id": 4,
+    "q": "Cho hình chóp S.ABCD có đáy ABCD là hình bình hành. Vị trí tương đối giữa đường thẳng AB và mặt phẳng (SCD) là:",
+    "opts": [
+      "AB cắt (SCD) tại B",
+      "AB cắt (SCD) tại S",
+      "AB nằm trong (SCD)",
+      "AB song song với (SCD)"
+    ]
+  },
+  {
+    "id": 5,
+    "q": "Cho hai đường thẳng a và b chéo nhau. Có bao nhiêu mặt phẳng chứa a và song song với b?",
+    "opts": [
+      "0",
+      "1",
+      "2",
+      "Vô số"
+    ]
+  },
+  {
+    "id": 6,
+    "q": "Cho tứ diện ABCD, M là điểm thuộc miền trong tam giác BCD. Mặt phẳng qua M và song song với AC và BD cắt tứ diện theo thiết diện là hình gì?",
+    "opts": [
+      "Hình bình hành",
+      "Hình thang",
+      "Hình vuông",
+      "Hình thoi"
+    ]
+  },
+  {
+    "id": 7,
+    "q": "Trong không gian, một đường thẳng song song với một đường thẳng nằm trong mặt phẳng và không nằm trong mặt phẳng đó thì có vị trí nào với mặt phẳng?",
+    "opts": [
+      "Cắt mặt phẳng",
+      "Nằm trong mặt phẳng",
+      "Song song với mặt phẳng",
+      "Vuông góc với mặt phẳng"
+    ]
+  },
+  {
+    "id": 8,
+    "q": "Nếu đường thẳng d nằm trong mặt phẳng (P), đường thẳng a song song với d và a không nằm trong (P), kết luận nào đúng?",
+    "opts": [
+      "a cắt (P)",
+      "a song song (P)",
+      "a vuông góc (P)",
+      "a trùng d"
+    ]
+  },
+  {
+    "id": 9,
+    "q": "Hai đường thẳng chéo nhau là hai đường thẳng:",
+    "opts": [
+      "Cắt nhau",
+      "Song song",
+      "Không đồng phẳng",
+      "Trùng nhau"
+    ]
+  },
+  {
+    "id": 10,
+    "q": "Qua một điểm nằm ngoài mặt phẳng (P), có bao nhiêu đường thẳng song song với (P) đi qua điểm đó?",
+    "opts": [
+      "Một đường thẳng",
+      "Hai đường thẳng",
+      "Vô số đường thẳng",
+      "Không có đường thẳng nào"
+    ]
+  }
+]
