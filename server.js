@@ -1,5 +1,6 @@
 const express=require("express"),session=require("express-session"),Database=require("better-sqlite3"),fs=require("fs"),path=require("path"),QRCode=require("qrcode");
 const app=express(),PORT=process.env.PORT||3000,PASS=process.env.TEACHER_PASSWORD||"DoiMatKhau123!";
+app.set("trust proxy", 1);
 const db=new Database("quiz.db");db.pragma("journal_mode=WAL");
 db.exec(`CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT NOT NULL);
 CREATE TABLE IF NOT EXISTS submissions(id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT,klass TEXT,score INTEGER,total INTEGER,answers TEXT,seconds INTEGER,submitted_at TEXT);`);
